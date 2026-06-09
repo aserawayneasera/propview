@@ -2,7 +2,7 @@
 
 A responsive single-page property listings dashboard built with Vue 3, Pinia, and TypeScript.
 
-Live demo: [propview.vercel.app](https://propview.vercel.app)
+Live demo: [propview.vercel.app](https://propview-flax.vercel.app)
 
 ---
 

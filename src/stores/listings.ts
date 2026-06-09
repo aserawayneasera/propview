@@ -1,7 +1,7 @@
 import { defineStore } from 'pinia'
 import { ref, computed } from 'vue'
 import { mockListings } from '../data/listings'
-import type { Property, Filters, PropertyType } from '../types/property'
+import type { Property, Filters } from '../types/property'
 
 export const useListingsStore = defineStore('listings', () => {
   // ─── State ───────────────────────────────────────────────────────────────
